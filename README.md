@@ -4,9 +4,9 @@
 <br>
 <h1 align="center">
   <br>
-  "*Inside the World of Pokémon!*"
+  "Inside the World of Pokémon!":
   <br>
-  Machine Learning (ML) - Project
+  a Machine Learning Project
   <br>
   
 </h1>
