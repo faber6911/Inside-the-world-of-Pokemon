@@ -45,7 +45,7 @@ Il dataset utilizzato è disponibile al seguente link: <br>
 
 Un ringraziamento a [@alopez247](https://www.kaggle.com/alopez247) per aver reso disponibile il dataset su [Kaggle](https://www.kaggle.com/) <br>
 
-Per chi non fosse in confidenza con il mondo dei Pokémon,
+Blablabla
 
 <p align="center">
   <a href="site"><img src = "img" width = "35%"></a>
