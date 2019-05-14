@@ -61,7 +61,7 @@ Hi everybody, my name is Dario Bertazioli
 
 <p align = "center">
   <a href = "https://www.instagram.com/aleborroni/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/174855.svg" width = "2%"></a>
-  <a href = "https://www.kaggle.com/alessandroborroni/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/thumbnail.png" width = "2%"></a>
+  <a href = "https://www.kaggle.com/dariobtz/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/thumbnail.png" width = "2%"></a>
   <a href = "https://github.com/DBertazioli/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/GitHub.png" width = "2%"></a>
   <a href = "https://www.twitter.com/malborroni/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/Twitter_bird_logo.png" width = "2%"></a>
   <a href = "https://www.facebook.com/alessandro.borroni.777"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/174848.svg" width = "2%"></a>
@@ -91,9 +91,9 @@ Hi everybody, my name is Fabrizio D'Intinosante
 
 <p align = "center">
   <a href = "https://www.instagram.com/fib_roga/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/174855.svg" width = "2%"></a>
-  <a href = "https://www.kaggle.com/alessandroborroni/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/thumbnail.png" width = "2%"></a>
+  <a href = "https://www.kaggle.com/faber6911/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/thumbnail.png" width = "2%"></a>
   <a href = "https://github.com/faber6911/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/GitHub.png" width = "2%"></a>
-  <a href = "https://www.twitter.com/malborroni/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/Twitter_bird_logo.png" width = "2%"></a>
+  <a href = "https://www.twitter.com/faberdinto/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/Twitter_bird_logo.png" width = "2%"></a>
   <a href = "https://www.facebook.com/alessandro.borroni.777"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/174848.svg" width = "2%"></a>
 </p>
 
@@ -104,9 +104,9 @@ Hi everybody, my name is Mirko Giugliano
 
 <p align = "center">
   <a href = "https://www.instagram.com/mirkogiugliano/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/174855.svg" width = "2%"></a>
-  <a href = "https://www.kaggle.com/alessandroborroni/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/thumbnail.png" width = "2%"></a>
+  <a href = "https://www.kaggle.com/pntt95/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/thumbnail.png" width = "2%"></a>
   <a href = "https://github.com/mamba95/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/GitHub.png" width = "2%"></a>
-  <a href = "https://www.twitter.com/malborroni/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/Twitter_bird_logo.png" width = "2%"></a>
+  <a href = "https://www.twitter.com/MambaPntt/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/Twitter_bird_logo.png" width = "2%"></a>
   <a href = "https://www.facebook.com/alessandro.borroni.777"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/174848.svg" width = "2%"></a>
 </p>
 
@@ -117,8 +117,8 @@ Hi everybody, my name is Massimiliano Perletti
 
 <p align = "center">
   <a href = "https://www.instagram.com/massimilianoperletti/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/174855.svg" width = "2%"></a>
-  <a href = "https://www.kaggle.com/alessandroborroni/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/thumbnail.png" width = "2%"></a>
+  <a href = "https://www.kaggle.com/aski11"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/thumbnail.png" width = "2%"></a>
   <a href = "https://github.com/maxi93/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/GitHub.png" width = "2%"></a>
-  <a href = "https://www.twitter.com/malborroni/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/Twitter_bird_logo.png" width = "2%"></a>
+  <a href = "https://www.twitter.com/MassiPerletti/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/Twitter_bird_logo.png" width = "2%"></a>
   <a href = "https://www.facebook.com/alessandro.borroni.777"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/174848.svg" width = "2%"></a>
 </p>
