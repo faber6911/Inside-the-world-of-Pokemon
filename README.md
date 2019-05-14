@@ -51,7 +51,7 @@ And bla and bla bla
 
 Gne gne gne
 
-<a name="aboutme"></a>
+<a name="aboutus"></a>
 ## &#9741; &nbsp; About us
 
 Hi everybody, my name is Dario Bertazioli
