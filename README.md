@@ -6,6 +6,7 @@
   <br>
   Machine Learning (ML) - Project
   <br>
+  "Inside the World of Pokémon!"
 </h1>
 
 <p align="center">
