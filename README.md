@@ -37,9 +37,15 @@ Blablabla
 
 
 <a name="datasets"></a>
-## &#9741; &nbsp; Datasets
+## &#9741; &nbsp; Dataset
 
-And bla and bla bla
+Il dataset utilizzato è disponibile al seguente link: <br>
+
+&nbsp;&nbsp;&nbsp; &#9667; &nbsp; [Pokémon](https://www.kaggle.com/alopez247/pokemon) <br>
+
+Un ringraziamento a [@alopez247](https://www.kaggle.com/alopez247) per aver reso disponibile il dataset su [Kaggle](https://www.kaggle.com/) <br>
+
+Per chi non fosse in confidenza con il mondo dei Pokémon,
 
 <p align="center">
   <a href="site"><img src = "img" width = "35%"></a>
