@@ -1,13 +1,80 @@
-# Machine Learning Project
+<p align="center">
+  <a href="http://datascience.disco.unimib.it/it/"><img src = "https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/DSunimib.png" width = "100%"></a>
+</p>
+<br>
+<h1 align="center">
+  <br>
+  Machine Learning (ML) - Project
+  <br>
+</h1>
 
-Quello dei Pokémon è un franchise giapponese di grande successo di proprietà di The Pokémon Company che fonda il suo successo, oltre che sulla serie animata, anche su tutta una serie di videogiochi realizzati in forma Role Playing Game (RPG) a partire dal 1996 e pubblicati da Nintendo. 
+<p align="center">
+  <a href="#overview">Overview &nbsp;</a> |
+  <a href="#instructions">&nbsp; Instructions &nbsp;</a> |
+  <a href="#datasets">&nbsp; Dataset &nbsp;</a> |
+  <a href="#conclusion">&nbsp; Conclusion &nbsp;</a> |
+  <a href="#aboutme">&nbsp; About me &nbsp;</a>
+</p>
 
-Mossi dalla curiosità di esplorare a fondo questo mondo ci siamo proposti diverse domande di ricerca, tra cui:
+<br>
 
-È possibile classificare i Pokémon cosiddetti “leggendari” (ovvero le creature simbolo di ogni generazione che dovrebbero rappresentare delle specie di divinità all’interno dei videogames) sulla base delle statistiche con le quali sono caratterizzati? Oppure la loro importanza è dovuta solo alla difficoltà che si ha nella loro cattura?
+<a name="overview"></a>
+## &#9741; &nbsp; Overview
 
-Dall’altro lato, invece, è possibile ricondurre la difficoltà in cui ci si può imbattere nel trovare e catturare un Pokémon alle sue statistiche oppure è un parametro scelto a priori dagli sviluppatori, completamente slegato da quelle che sono le effettive capacità delle creature?
+Quello dei Pokémon è un franchise giapponese di grande successo di proprietà di The Pokémon Company che fonda il suo successo, oltre che sulla serie animata, anche su tutta una serie di videogiochi realizzati in forma Role Playing Game (RPG) a partire dal 1996 e pubblicati da Nintendo. <br>
+Mossi dalla curiosità di esplorare a fondo questo mondo ci siamo proposti diverse domande di ricerca, tra cui: <br>
+i) È possibile classificare i Pokémon cosiddetti “leggendari” (ovvero le creature simbolo di ogni generazione che dovrebbero rappresentare delle specie di divinità all’interno dei videogames) sulla base delle statistiche con le quali sono caratterizzati? Oppure la loro importanza è dovuta solo alla difficoltà che si ha nella loro cattura?
+ii) È possibile ricondurre la difficoltà in cui ci si può imbattere nel trovare e catturare un Pokémon alle sue statistiche oppure è un parametro scelto a priori dagli sviluppatori, completamente slegato da quelle che sono le effettive capacità delle creature?
 
-Con il software KNIME abbiamo provato a dare una risposta a questi interrogativi con gli strumenti propri del Machine Learning.
+Con il software **KNIME** abbiamo provato a dare una risposta a questi interrogativi con gli strumenti propri del Machine Learning.
 
-Enjoy!
+<a name="instructions"></a>
+## &#9741; &nbsp; Instructions
+
+Blablabla
+
+### **Notes**
+
+
+<a name="datasets"></a>
+## &#9741; &nbsp; Datasets
+
+And bla and bla bla
+
+<p align="center">
+  <a href="site"><img src = "img" width = "35%"></a>
+</p>
+
+
+<a name="conclusion"></a>
+## &#9741; &nbsp; Conclusion
+
+Gne gne gne
+
+<a name="aboutme"></a>
+## &#9741; &nbsp; About us
+
+Hi everybody, my name is Dario Bertazioli
+
+Hi everybody, my name is Alessandro Borroni and I am a _Data Science_ student based in Milan, as the picture up there had already told you. <br>
+I have a kind of great passion for _Photography_ and _Mathematics_. <br>
+My previous goal consists in a degree in Business Economics, obtained at University of Milan-Bicocca. Thanks to this degree I developed, inter alia, an interest in _Statistics_ and _Finance_. <br>
+<br>
+Down here you can find some of my Social Media channels, check them out if you want!
+
+## &nbsp;
+<br>
+
+<p align = "center">
+  <a href = "https://www.instagram.com/aleborroni/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/174855.svg" width = "2%"></a>
+  <a href = "https://www.kaggle.com/alessandroborroni/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/thumbnail.png" width = "2%"></a>
+  <a href = "https://github.com/malborroni/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/GitHub.png" width = "2%"></a>
+  <a href = "https://www.twitter.com/malborroni/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/Twitter_bird_logo.png" width = "2%"></a>
+  <a href = "https://www.facebook.com/alessandro.borroni.777"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/174848.svg" width = "2%"></a>
+</p>
+
+Hi everybody, my name is Fabrizio D'Intinosante
+
+Hi everybody, my name is Mirko Giugliano
+
+Hi everybody, my name is Massimiliano Perletti
