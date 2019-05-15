@@ -57,7 +57,7 @@ Un ringraziamento a [@alopez247](https://www.kaggle.com/alopez247) per aver reso
 
 
 <p align="center">
-  <a href="https://www.pokemon.com/it/"><img src = "img" width = "35%"></a>
+  <a href="https://www.pokemon.com/it/"><img src = "https://github.com/malborroni/Machine_Learning_Project/blob/master/img/Scritta vector.png" width = "35%"></a>
 </p>
 
 
