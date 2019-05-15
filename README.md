@@ -60,6 +60,7 @@ Laddove non si conoscesse e si volesse avere un'idea più precisa in merito al m
   <a href="https://www.pokemon.com/it/"><img src = "https://github.com/malborroni/Machine_Learning_Project/blob/master/img/Scritta vector.png" width = "45%"></a>
 </p>
 
+<br>
 
 <a name="conclusion"></a>
 ## &#9741; &nbsp; Conclusioni
@@ -83,9 +84,11 @@ Il nome del nostro gruppo di lavoro per questo progetto è stato **Team 09**, e 
 
 - *Cosa studio*: Studente Magistrale di Data Science presso l'Università degli Studi di Milano-Bicocca;
 - *Traguardi precedenti*: Laurea triennale in Fisica presso l'Università degli Studi di Milano.
+<br>
+
+Qui di seguito vengono riportati i principali canali social:
 
 ## &nbsp;
-<br>
 
 <p align = "center">
   <a href = "https://www.kaggle.com/dariobtz/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/thumbnail.png" width = "2%"></a>
@@ -99,10 +102,10 @@ Il nome del nostro gruppo di lavoro per questo progetto è stato **Team 09**, e 
 - *Traguardi precedenti*: Laurea triennale in Economia e Commercio presso l'Università degli Studi di Milano-Bicocca;
 - *Canali social*: 
 <br>
+
 Qui di seguito vengono riportati i principali canali social:
 
 ## &nbsp;
-<br>
 
 <p align = "center">
   <a href = "https://www.instagram.com/aleborroni/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/174855.svg" width = "2%"></a>
@@ -116,9 +119,11 @@ Qui di seguito vengono riportati i principali canali social:
 
 - *Cosa studio*: Studente Magistrale di Data Science presso l'Università degli Studi di Milano-Bicocca;
 - *Traguardi precedenti*: Laurea triennale in Economia e Statistica per le organizzazioni presso l'Università degli Studi di Torino.
+<br>
+
+Qui di seguito vengono riportati i principali canali social:
 
 ## &nbsp;
-<br>
 
 <p align = "center">
   <a href = "https://www.instagram.com/fib_roga/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/174855.svg" width = "2%"></a>
@@ -132,9 +137,11 @@ Qui di seguito vengono riportati i principali canali social:
 
 - *Cosa studio*: Studente Magistrale di Data Science presso l'Università degli Studi di Milano-Bicocca;
 - *Traguardi precedenti*: Laurea triennale in Marketing, Comunicazione Aziendale e Mercati Globali presso l'Università degli Studi di Milano-Bicocca.
+<br>
+
+Qui di seguito vengono riportati i principali canali social:
 
 ## &nbsp;
-<br>
 
 <p align = "center">
   <a href = "https://www.instagram.com/mirkogiugliano/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/174855.svg" width = "2%"></a>
@@ -148,9 +155,11 @@ Qui di seguito vengono riportati i principali canali social:
 
 - *Cosa studio*: Studente Magistrale di Data Science presso l'Università degli Studi di Milano-Bicocca;
 - *Traguardi precedenti*: Laurea triennale in Ingegneria dei materiali e delle nano-tecnologie presso il Politecnico di Milano.
+<br>
+
+Qui di seguito vengono riportati i principali canali social:
 
 ## &nbsp;
-<br>
 
 <p align = "center">
   <a href = "https://www.instagram.com/massimilianoperletti/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/174855.svg" width = "2%"></a>
