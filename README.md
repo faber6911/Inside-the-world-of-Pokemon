@@ -57,7 +57,7 @@ Un ringraziamento a [@alopez247](https://www.kaggle.com/alopez247) per aver reso
 
 Laddove non si conoscesse e si volesse avere un'idea più precisa in merito al mondo dei Pokémon, fare click sulla seguente immagine: <br>
 <p align="center">
-  <a href="https://www.pokemon.com/it/"><img src = "https://github.com/malborroni/Machine_Learning_Project/blob/master/img/Scritta vector.png" width = "35%"></a>
+  <a href="https://www.pokemon.com/it/"><img src = "https://github.com/malborroni/Machine_Learning_Project/blob/master/img/Scritta vector.png" width = "50%"></a>
 </p>
 
 
