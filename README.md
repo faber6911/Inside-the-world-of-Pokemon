@@ -15,7 +15,7 @@
   <a href="#overview">Overview &nbsp;</a> |
   <a href="#instructions">&nbsp; Istruzioni &nbsp;</a> |
   <a href="#datasets">&nbsp; Dataset &nbsp;</a> |
-  <a href="#visualization">&nbsp; Visualizzazioni dei dati &nbsp;</a> |
+  <a href="#visualization">&nbsp; Data Visualization &nbsp;</a> |
   <a href="#conclusion">&nbsp; Conclusioni &nbsp;</a> |
   <a href="#aboutus">&nbsp; About us &nbsp;</a>
 </p>
@@ -64,9 +64,9 @@ Laddove non si conoscesse e si volesse avere un'idea più precisa in merito al m
 <br>
 
 <a name="visualization"></a>
-## &#9741; &nbsp; Visualizzazioni dei dati
+## &#9741; &nbsp; Data Visualization
 
-Tentando di mettere in pratica quanto imparato in materia di _visualizzazione dei dati_, abbiamo dato vita ad alcune infografiche disponibili alla seguente pagina di [Tableau](https://www.tableau.com/): LINK
+Tentando di mettere in pratica quanto imparato in materia di _visualizzazione dei dati_, abbiamo dato vita ad alcune infografiche disponibili alla seguente pagina di [Tableau](https://www.tableau.com/): https://public.tableau.com/views/Pokmon-MLproject/Whosgonnawin?:embed=y&:display_count=yes&:origin=viz_share_link
 
 <a name="conclusion"></a>
 ## &#9741; &nbsp; Conclusioni
