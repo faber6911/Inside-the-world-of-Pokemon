@@ -7,7 +7,7 @@
   <br>
   a Machine Learning Project
   <br>
-  
+  <br>
 <p align="center">
   <a href="https://www.pokemon.com/it/"><img src = "https://github.com/malborroni/Machine_Learning_Project/blob/master/img/Scritta vector.png" width = "35%"></a>
 </p>
