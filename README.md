@@ -185,7 +185,7 @@ Grazie infinitamente per la cortese **attenzione**!
 <br>
 <br>
 
-<font size="2">
+<font size="0.5">
 <p style="text-align: center;">Solution by <a href="https://github.com/malborroni/">Alessandro Borroni</a></p>
 <p style="text-align: center;"><span style="color: #808080;"><em>a.borroni2@campus.unimib.it</em></span></p>
 </font>
