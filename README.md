@@ -38,6 +38,8 @@ ii) È possibile ricondurre la difficoltà in cui ci si può imbattere nel trova
 
 Con il software **KNIME** abbiamo provato a dare una risposta a questi interrogativi con gli strumenti propri del Machine Learning.
 
+<br>
+
 <a name="instructions"></a>
 ## &#9741; &nbsp; Istruzioni
 
@@ -52,6 +54,8 @@ Per il progetto, abbiamo dovuto seguire le istruzioni ivi riportate: <br>
 
 Abbiamo deciso di sviluppo il report in lingua italiana per mantenere una coerenza con l'insegnamento e per evitare di complicarci eccessivamente la vita in fase di stesura. <br>
 Tuttavia, abbiamo l'intento di dar vita a una versione in inglese nel breve periodo.
+
+<br>
 
 <a name="datasets"></a>
 ## &#9741; &nbsp; Dataset
@@ -76,6 +80,8 @@ Per accedere alla versione interattiva delle stesse, clicckare sull'immagine sop
 
 &#9758; &nbsp; [Inside the World of Pokémon - Data Visualization](https://public.tableau.com/views/Pokmon-MLproject/Introduction?:embed=y&:display_count=yes&:origin=viz_share_link)
 
+<br>
+
 <a name="conclusion"></a>
 ## &#9741; &nbsp; Conclusioni
 
@@ -88,6 +94,8 @@ In particolare, abbiamo scoperto che bastano pochi attributi comuni selezionati 
 La risposta è (parzialmente) sì: con la classificazione multibinaria che abbiamo effettuato, avente come target la variabile *rarity_class* da noi creata, abbiamo ottenuto un’accuracy media pari all’incirca a 0.8, comune a tutti i classificatori adottati. Tale risultato indica che i relativamente pochi attributi selezionati (dalla Feature Selection) influenzano in modo significativo il processo di cattura. <br>
 
 I risultati sono probabilmente incrementabili applicando direttamente una regressione alla variabile continua *catch_rate*, tuttavia la risposta alla domanda principale sarebbe in questo frangente offuscata (se non contraddetta, in alcuni casi) dal peso del fattore random che gioca un ruolo importante durante il processo di cattura. Con la nostra discretizzazione pensiamo di ottenere un risultato più affidabile in termini di riscontro nel gioco, benché meno predittivo nello specifico.
+
+<br>
 
 <a name="aboutus"></a>
 ## &#9741; &nbsp; About us
