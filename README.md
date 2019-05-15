@@ -74,7 +74,7 @@ Un ringraziamento a [@alopez247](https://www.kaggle.com/alopez247) per averlo re
 Tentando di mettere in pratica quanto imparato in materia di _visualizzazione dei dati_, abbiamo dato vita ad alcune infografiche. <br>
 Per accedere alla versione interattiva delle stesse, clicckare sull'immagine sopra riportata oppure sul seguente link, il quale rimanda a una pagina di [Tableau](https://www.tableau.com/) Public: <br>
 
-&#9758; &nbsp; [Inside the World of Pokémon - Data Visualization] (https://public.tableau.com/views/Pokmon-MLproject/Introduction?:embed=y&:display_count=yes&:origin=viz_share_link)
+&#9758; &nbsp; [Inside the World of Pokémon - Data Visualization](https://public.tableau.com/views/Pokmon-MLproject/Introduction?:embed=y&:display_count=yes&:origin=viz_share_link)
 
 <a name="conclusion"></a>
 ## &#9741; &nbsp; Conclusioni
