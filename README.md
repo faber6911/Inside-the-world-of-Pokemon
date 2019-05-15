@@ -7,7 +7,6 @@
   <br>
   a Machine Learning Project
   <br>
-  <br>
   
 </h1>
 
