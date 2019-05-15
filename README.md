@@ -146,6 +146,6 @@ Hi everybody, my name is Massimiliano Perletti
 
 <br>
 
-<p align="left">
+<p align="right">
   <a href=""><img src = "https://github.com/malborroni/Machine_Learning_Project/blob/master/img/Dr. Oak.png" width = "50%"></a>
 </p>
