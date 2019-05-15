@@ -186,4 +186,4 @@ Grazie infinitamente per la cortese **attenzione**!
 <br>
 
 
-<p align: right;">Solution by <a href="https://github.com/malborroni/">Alessandro Borroni</a></p>
+<p align = "right"> Solution by <a href="https://github.com/malborroni/"> Alessandro Borroni </a></p>
