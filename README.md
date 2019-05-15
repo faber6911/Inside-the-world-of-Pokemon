@@ -1,15 +1,21 @@
 <p align="center">
   <a href="http://datascience.disco.unimib.it/it/"><img src = "https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/DSunimib.png" width = "100%"></a>
 </p>
-<br>
 <h1 align="center">
   <br>
-  "Inside the World of Pokémon!":
+  "Inside the World of Pokémon!"
   <br>
   a Machine Learning Project
   <br>
   
+<p align="center">
+  <a href="https://www.pokemon.com/it/"><img src = "https://github.com/malborroni/Machine_Learning_Project/blob/master/img/Scritta vector.png" width = "35%"></a>
+</p>
+
+  
 </h1>
+
+
 
 <p align="center">
   <a href="#overview">Overview &nbsp;</a> |
@@ -54,7 +60,7 @@ Il dataset utilizzato è disponibile al seguente link: <br>
 
 &nbsp;&nbsp;&nbsp; &#9667; &nbsp; [Pokémon](https://www.kaggle.com/alopez247/pokemon) <br>
 
-Un ringraziamento a [@alopez247](https://www.kaggle.com/alopez247) per aver reso disponibile il dataset su [Kaggle](https://www.kaggle.com/) <br>
+Un ringraziamento a [@alopez247](https://www.kaggle.com/alopez247) per averlo reso disponibile sulla piattaforma di [Kaggle](https://www.kaggle.com/) <br>
 
 <br>
 
