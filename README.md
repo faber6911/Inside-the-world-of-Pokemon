@@ -8,14 +8,8 @@
   a Machine Learning Project
   <br>
   <br>
-<p align="center">
-  <a href="https://www.pokemon.com/it/"><img src = "https://github.com/malborroni/Machine_Learning_Project/blob/master/img/Scritta vector.png" width = "35%"></a>
-</p>
-
   
 </h1>
-
-
 
 <p align="center">
   <a href="#overview">Overview &nbsp;</a> |
@@ -24,6 +18,12 @@
   <a href="#visualization">&nbsp; Data Visualization &nbsp;</a> |
   <a href="#conclusion">&nbsp; Conclusioni &nbsp;</a> |
   <a href="#aboutus">&nbsp; About us &nbsp;</a>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://www.pokemon.com/it/"><img src = "https://github.com/malborroni/Machine_Learning_Project/blob/master/img/Scritta vector.png" width = "35%"></a>
 </p>
 
 <br>
