@@ -13,9 +13,9 @@
 
 <p align="center">
   <a href="#overview">Overview &nbsp;</a> |
-  <a href="#instructions">&nbsp; Instructions &nbsp;</a> |
+  <a href="#instructions">&nbsp; Istruzioni &nbsp;</a> |
   <a href="#datasets">&nbsp; Dataset &nbsp;</a> |
-  <a href="#conclusion">&nbsp; Conclusion &nbsp;</a> |
+  <a href="#conclusion">&nbsp; Conclusioni &nbsp;</a> |
   <a href="#aboutus">&nbsp; About us &nbsp;</a>
 </p>
 
@@ -32,7 +32,7 @@ ii) È possibile ricondurre la difficoltà in cui ci si può imbattere nel trova
 Con il software **KNIME** abbiamo provato a dare una risposta a questi interrogativi con gli strumenti propri del Machine Learning.
 
 <a name="instructions"></a>
-## &#9741; &nbsp; Instructions
+## &#9741; &nbsp; Istruzioni
 
 Per il progetto, abbiamo dovuto seguire le istruzioni ivi riportate: <br>
 - Scegliere un dataset da [Kaggle](https://www.kaggle.com/); <br>
@@ -41,7 +41,7 @@ Per il progetto, abbiamo dovuto seguire le istruzioni ivi riportate: <br>
 - Sviluppare un workflow di [Knime](https://www.knime.com/knime-software/knime-analytics-platform); <br> 
 - Dare vita a un report tecnico (sotto le 8 pagine, a propria discrezione in italiano o in inglese). <br>
 
-### **Notes**
+### **Nota Bene:**
 
 Abbiamo deciso di sviluppo il report in lingua italiana per mantenere una coerenza con l'insegnamento e per evitare di complicarci eccessivamente la vita in fase di stesura. <br>
 Tuttavia, abbiamo l'intento di dar vita a una versione in inglese nel breve periodo.
@@ -62,7 +62,7 @@ Un ringraziamento a [@alopez247](https://www.kaggle.com/alopez247) per aver reso
 
 
 <a name="conclusion"></a>
-## &#9741; &nbsp; Conclusion
+## &#9741; &nbsp; Conclusioni
 
 In conclusione, riportiamo sinteticamente le risposte alle principali domande di ricerca:
 - È possibile individuare i Pokémon leggendari solamente in base alle loro statistiche “fisiche"? <br>
