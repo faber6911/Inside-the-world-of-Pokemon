@@ -67,7 +67,7 @@ Laddove non si conoscesse e si volesse avere un'idea più precisa in merito al m
 ## &#9741; &nbsp; Data Visualization
 
 <p align="center">
-  <a href="https://public.tableau.com/views/Pokmon-MLproject/Whosgonnawin?:embed=y&:display_count=yes&:origin=viz_share_link"><img src = "https://github.com/malborroni/Machine_Learning_Project/blob/master/img/Cattura.PNG" width = "90%"></a>
+  <a href="https://public.tableau.com/views/Pokmon-MLproject/Whosgonnawin?:embed=y&:display_count=yes&:origin=viz_share_link"><img src = "https://github.com/malborroni/Machine_Learning_Project/blob/master/img/Cattura.PNG" width = "100%"></a>
 </p>
 
 Tentando di mettere in pratica quanto imparato in materia di _visualizzazione dei dati_, abbiamo dato vita ad alcune infografiche. <br>
