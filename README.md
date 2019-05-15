@@ -143,3 +143,9 @@ Hi everybody, my name is Massimiliano Perletti
   <a href = "https://www.twitter.com/MassiPerletti/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/Twitter_bird_logo.png" width = "2%"></a>
   <a href = "https://www.facebook.com/massimilianoperletti1"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/174848.svg" width = "2%"></a>
 </p>
+
+<br>
+
+<p align="left">
+  <a href=""><img src = "https://github.com/malborroni/Machine_Learning_Project/blob/master/img/Dr. Oak.png" width = "50%"></a>
+</p>
