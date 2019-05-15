@@ -88,13 +88,13 @@ Il nome del nostro gruppo di lavoro per questo progetto è stato **Team 09**, e 
 
 Qui di seguito vengono riportati i principali canali social:
 
-## &nbsp;
-
 <p align = "center">
   <a href = "https://www.kaggle.com/dariobtz/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/thumbnail.png" width = "2%"></a>
   <a href = "https://github.com/DBertazioli/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/GitHub.png" width = "2%"></a>
   <a href = "https://www.facebook.com/dario.bertazioli.5"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/174848.svg" width = "2%"></a>
 </p>
+
+## &nbsp;
 
 &#8860; &nbsp; **Alessandro Borroni** 
 
@@ -105,8 +105,6 @@ Qui di seguito vengono riportati i principali canali social:
 
 Qui di seguito vengono riportati i principali canali social:
 
-## &nbsp;
-
 <p align = "center">
   <a href = "https://www.instagram.com/aleborroni/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/174855.svg" width = "2%"></a>
   <a href = "https://www.kaggle.com/alessandroborroni/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/thumbnail.png" width = "2%"></a>
@@ -114,6 +112,8 @@ Qui di seguito vengono riportati i principali canali social:
   <a href = "https://www.twitter.com/malborroni/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/Twitter_bird_logo.png" width = "2%"></a>
   <a href = "https://www.facebook.com/alessandro.borroni.777"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/174848.svg" width = "2%"></a>
 </p>
+
+## &nbsp;
 
 &#8860; &nbsp; **Fabrizio D'Intinosante**
 
@@ -123,8 +123,6 @@ Qui di seguito vengono riportati i principali canali social:
 
 Qui di seguito vengono riportati i principali canali social:
 
-## &nbsp;
-
 <p align = "center">
   <a href = "https://www.instagram.com/fib_roga/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/174855.svg" width = "2%"></a>
   <a href = "https://www.kaggle.com/faber6911/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/thumbnail.png" width = "2%"></a>
@@ -132,6 +130,8 @@ Qui di seguito vengono riportati i principali canali social:
   <a href = "https://www.twitter.com/faberdinto/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/Twitter_bird_logo.png" width = "2%"></a>
   <a href = "https://www.facebook.com/fabrizio.dintinosante"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/174848.svg" width = "2%"></a>
 </p>
+
+## &nbsp;
 
 &#8860; &nbsp; **Mirko Giugliano**
 
@@ -141,15 +141,15 @@ Qui di seguito vengono riportati i principali canali social:
 
 Qui di seguito vengono riportati i principali canali social:
 
-## &nbsp;
-
 <p align = "center">
-  <a href = "https://www.instagram.com/mirkogiugliano/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/174855.svg" width = "2%"></a>
+  <a href = "https://www.linkedin.com//"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/174855.svg" width = "2%"></a>
   <a href = "https://www.kaggle.com/pntt95/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/thumbnail.png" width = "2%"></a>
   <a href = "https://github.com/mamba95/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/GitHub.png" width = "2%"></a>
   <a href = "https://www.twitter.com/MambaPntt/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/Twitter_bird_logo.png" width = "2%"></a>
   <a href = "https://www.facebook.com/mirko.giugliano"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/174848.svg" width = "2%"></a>
 </p>
+
+## &nbsp;
 
 &#8860; &nbsp; **Massimiliano Perletti**
 
@@ -158,8 +158,6 @@ Qui di seguito vengono riportati i principali canali social:
 <br>
 
 Qui di seguito vengono riportati i principali canali social:
-
-## &nbsp;
 
 <p align = "center">
   <a href = "https://www.instagram.com/massimilianoperletti/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/174855.svg" width = "2%"></a>
