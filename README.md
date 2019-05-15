@@ -65,11 +65,11 @@ Laddove non si conoscesse e si volesse avere un'idea più precisa in merito al m
 ## &#9741; &nbsp; Conclusioni
 
 In conclusione, riportiamo sinteticamente le risposte alle principali domande di ricerca:
-- È possibile individuare i Pokémon leggendari solamente in base alle loro statistiche “fisiche"? <br>
+- **È possibile individuare i Pokémon leggendari solamente in base alle loro statistiche “fisiche"?** <br>
 La risposta è sì, e con risultati piuttosto consistenti: infatti, l’accuracy (nonché la misura di *F-Measure*) raggiunta dai classificatori per tale compito è piuttosto alta, e tutti i modelli di classificazione usati per l’analisi si sono rilevati sostanzialmente equivalenti e ben performanti. <br>
 In particolare, abbiamo scoperto che bastano pochi attributi comuni selezionati attraverso *Feature Selection* per ottenere ottimi risultati di classificazione, segno che il risultato è chiaramente interpretabile tramite il significato che questi attributi assumono nel mondo dei Pokémon. In linea di massima possiamo affermare che i Pokémon etichettati -dai creatori del gioco- come leggendari non posseggono tale titolo solo per ragioni di trama o convenienza, ma perché dotati a tutti gli effetti di statistiche di combattimento generalmente piuttosto elevate. <br>
 
-- È possibile predire in base alle statistiche generali la facilità di cattura di un Pokémon? <br>
+- **È possibile predire in base alle statistiche generali la facilità di cattura di un Pokémon?** <br>
 La risposta è (parzialmente) sì: con la classificazione multibinaria che abbiamo effettuato, avente come target la variabile *rarity_class* da noi creata, abbiamo ottenuto un’accuracy media pari all’incirca a 0.8, comune a tutti i classificatori adottati. Tale risultato indica che i relativamente pochi attributi selezionati (dalla Feature Selection) influenzano in modo significativo il processo di cattura. <br>
 
 I risultati sono probabilmente incrementabili applicando direttamente una regressione alla variabile continua *catch_rate*, tuttavia la risposta alla domanda principale sarebbe in questo frangente offuscata (se non contraddetta, in alcuni casi) dal peso del fattore random che gioca un ruolo importante durante il processo di cattura. Con la nostra discretizzazione pensiamo di ottenere un risultato più affidabile in termini di riscontro nel gioco, benché meno predittivo nello specifico.
@@ -77,7 +77,12 @@ I risultati sono probabilmente incrementabili applicando direttamente una regres
 <a name="aboutus"></a>
 ## &#9741; &nbsp; About us
 
-Hi everybody, my name is Dario Bertazioli
+Il nome del nostro gruppo di lavoro per questo progetto è stato **Team 09**, e qui di seguito ne verranno presentati brevemente i componenti:
+
+&#8860; &nbsp; **Dario Bertazioli**
+
+- *Cosa studio*: Studente Magistrale di Data Science presso l'Università degli Studi di Milano-Bicocca;
+- *Traguardi precedenti*: Laurea triennale in Fisica presso l'Università degli Studi di Milano.
 
 ## &nbsp;
 <br>
@@ -88,7 +93,7 @@ Hi everybody, my name is Dario Bertazioli
   <a href = "https://www.facebook.com/dario.bertazioli.5"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/174848.svg" width = "2%"></a>
 </p>
 
-Hi everybody, my name is Alessandro Borroni and I am a _Data Science_ student based in Milan, as the picture up there had already told you. <br>
+&#8860; &nbsp; **Alessandro Borroni** and I am a _Data Science_ student based in Milan, as the picture up there had already told you. <br>
 I have a kind of great passion for _Photography_ and _Mathematics_. <br>
 My previous goal consists in a degree in Business Economics, obtained at University of Milan-Bicocca. Thanks to this degree I developed, inter alia, an interest in _Statistics_ and _Finance_. <br>
 <br>
@@ -105,7 +110,10 @@ Down here you can find some of my Social Media channels, check them out if you w
   <a href = "https://www.facebook.com/alessandro.borroni.777"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/174848.svg" width = "2%"></a>
 </p>
 
-Hi everybody, my name is Fabrizio D'Intinosante
+&#8860; &nbsp; **Fabrizio D'Intinosante**
+
+- *Cosa studio*: Studente Magistrale di Data Science presso l'Università degli Studi di Milano-Bicocca;
+- *Traguardi precedenti*: Laurea triennale in Economia e Statistica per le organizzazioni presso l'Università degli Studi di Torino.
 
 ## &nbsp;
 <br>
@@ -118,7 +126,10 @@ Hi everybody, my name is Fabrizio D'Intinosante
   <a href = "https://www.facebook.com/fabrizio.dintinosante"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/174848.svg" width = "2%"></a>
 </p>
 
-Hi everybody, my name is Mirko Giugliano
+&#8860; &nbsp; **Mirko Giugliano**
+
+- *Cosa studio*: Studente Magistrale di Data Science presso l'Università degli Studi di Milano-Bicocca;
+- *Traguardi precedenti*: Laurea triennale in Marketing, Comunicazione Aziendale e Mercati Globali presso l'Università degli Studi di Milano-Bicocca.
 
 ## &nbsp;
 <br>
@@ -131,7 +142,10 @@ Hi everybody, my name is Mirko Giugliano
   <a href = "https://www.facebook.com/mirko.giugliano"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/174848.svg" width = "2%"></a>
 </p>
 
-Hi everybody, my name is Massimiliano Perletti
+&#8860; &nbsp; **Massimiliano Perletti**
+
+- *Cosa studio*: Studente Magistrale di Data Science presso l'Università degli Studi di Milano-Bicocca;
+- *Traguardi precedenti*: Laurea triennale in Ingegneria dei materiali e delle nano-tecnologie presso il Politecnico di Milano.
 
 ## &nbsp;
 <br>
