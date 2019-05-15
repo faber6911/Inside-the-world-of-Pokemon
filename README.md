@@ -15,6 +15,7 @@
   <a href="#overview">Overview &nbsp;</a> |
   <a href="#instructions">&nbsp; Istruzioni &nbsp;</a> |
   <a href="#datasets">&nbsp; Dataset &nbsp;</a> |
+  <a href="#visualization">&nbsp; Visualizzazioni dei dati &nbsp;</a> |
   <a href="#conclusion">&nbsp; Conclusioni &nbsp;</a> |
   <a href="#aboutus">&nbsp; About us &nbsp;</a>
 </p>
@@ -61,6 +62,11 @@ Laddove non si conoscesse e si volesse avere un'idea più precisa in merito al m
 </p>
 
 <br>
+
+<a name="visualization"></a>
+## &#9741; &nbsp; Visualizzazioni dei dati
+
+Tentando di mettere in pratica quanto imparato in materia di _visualizzazione dei dati_, abbiamo dato vita ad alcune infografiche disponibili alla seguente pagina di [Tableau](https://www.tableau.com/): <div class='tableauPlaceholder' id='viz1557918894988' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Po&#47;Pokmon-MLproject&#47;Introduction&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Pokmon-MLproject&#47;Introduction' /><param name='tabs' value='yes' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Po&#47;Pokmon-MLproject&#47;Introduction&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1557918894988');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1920px';vizElement.style.height='1130px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
 <a name="conclusion"></a>
 ## &#9741; &nbsp; Conclusioni
@@ -168,9 +174,15 @@ Qui di seguito vengono riportati i principali canali social:
 </p>
 
 <br>
+<br>
 
 Grazie infinitamente per la cortese **attenzione**!
 
 <p align="right">
   <a href=""><img src = "https://github.com/malborroni/Machine_Learning_Project/blob/master/img/Dr. Oak.png" width = "50%"></a>
 </p>
+
+<br>
+<br>
+
+
