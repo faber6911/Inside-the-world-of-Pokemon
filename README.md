@@ -57,7 +57,7 @@ Un ringraziamento a [@alopez247](https://www.kaggle.com/alopez247) per aver reso
 
 Laddove non si conoscesse e si volesse avere un'idea più precisa in merito al mondo dei Pokémon, fare click sulla seguente immagine: <br>
 <p align="center">
-  <a href="https://www.pokemon.com/it/"><img src = "https://github.com/malborroni/Machine_Learning_Project/blob/master/img/Scritta vector.png" width = "50%"></a>
+  <a href="https://www.pokemon.com/it/"><img src = "https://github.com/malborroni/Machine_Learning_Project/blob/master/img/Scritta vector.png" width = "45%"></a>
 </p>
 
 
@@ -93,11 +93,13 @@ Il nome del nostro gruppo di lavoro per questo progetto è stato **Team 09**, e 
   <a href = "https://www.facebook.com/dario.bertazioli.5"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/174848.svg" width = "2%"></a>
 </p>
 
-&#8860; &nbsp; **Alessandro Borroni** and I am a _Data Science_ student based in Milan, as the picture up there had already told you. <br>
-I have a kind of great passion for _Photography_ and _Mathematics_. <br>
-My previous goal consists in a degree in Business Economics, obtained at University of Milan-Bicocca. Thanks to this degree I developed, inter alia, an interest in _Statistics_ and _Finance_. <br>
+&#8860; &nbsp; **Alessandro Borroni** 
+
+- *Cosa studio*: Studente Magistrale di Data Science presso l'Università degli Studi di Milano-Bicocca;
+- *Traguardi precedenti*: Laurea triennale in Economia e Commercio presso l'Università degli Studi di Milano-Bicocca;
+- *Canali social*: 
 <br>
-Down here you can find some of my Social Media channels, check them out if you want!
+Qui di seguito vengono riportati i principali canali social:
 
 ## &nbsp;
 <br>
