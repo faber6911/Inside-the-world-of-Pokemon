@@ -141,7 +141,7 @@ Qui di seguito vengono riportati i principali canali social:
 
 Qui di seguito vengono riportati i principali canali social:
 
-<p align = "left">
+<p align = "center">
   <a href = "https://www.linkedin.com/in/mirko-giugliano-3b8269134/"><img src="https://github.com/malborroni/Machine_Learning_Project/blob/master/img/174857.svg" width = "2%"></a>
   <a href = "https://www.kaggle.com/pntt95/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/thumbnail.png" width = "2%"></a>
   <a href = "https://github.com/mamba95/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/GitHub.png" width = "2%"></a>
@@ -159,7 +159,7 @@ Qui di seguito vengono riportati i principali canali social:
 
 Qui di seguito vengono riportati i principali canali social:
 
-<p align = "left">
+<p align = "center">
   <a href = "https://www.linkedin.com/in/massimilianoperletti/"><img src="https://github.com/malborroni/Machine_Learning_Project/blob/master/img/174857.svg" width = "2%"></a>
   <a href = "https://www.kaggle.com/aski11"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/thumbnail.png" width = "2%"></a>
   <a href = "https://github.com/maxi93/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/GitHub.png" width = "2%"></a>
@@ -168,6 +168,8 @@ Qui di seguito vengono riportati i principali canali social:
 </p>
 
 <br>
+
+Grazie infinitamente per la cortese **attenzione**!
 
 <p align="right">
   <a href=""><img src = "https://github.com/malborroni/Machine_Learning_Project/blob/master/img/Dr. Oak.png" width = "50%"></a>
