@@ -25,7 +25,7 @@
   <a href="https://www.pokemon.com/it/"><img src = "https://github.com/malborroni/Machine_Learning_Project/blob/master/img/Scritta vector.png" width = "35%"></a>
 </p>
 
-<br>
+
 
 <a name="overview"></a>
 ## &#9741; &nbsp; Overview
