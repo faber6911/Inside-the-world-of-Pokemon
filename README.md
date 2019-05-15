@@ -44,7 +44,7 @@ Per il progetto, abbiamo dovuto seguire le istruzioni ivi riportate: <br>
 ### **Notes**
 
 Abbiamo deciso di sviluppo il report in lingua italiana per mantenere una coerenza con l'insegnamento e per evitare di complicarci eccessivamente la vita in fase di stesura. <br>
-Tuttavia, abbiamo l'intento di dar vita a una versione in inglese il prima possibile.
+Tuttavia, abbiamo l'intento di dar vita a una versione in inglese nel breve periodo.
 
 <a name="datasets"></a>
 ## &#9741; &nbsp; Dataset
@@ -55,17 +55,24 @@ Il dataset utilizzato è disponibile al seguente link: <br>
 
 Un ringraziamento a [@alopez247](https://www.kaggle.com/alopez247) per aver reso disponibile il dataset su [Kaggle](https://www.kaggle.com/) <br>
 
-Blablabla
 
 <p align="center">
-  <a href="site"><img src = "img" width = "35%"></a>
+  <a href="https://www.pokemon.com/it/"><img src = "img" width = "35%"></a>
 </p>
 
 
 <a name="conclusion"></a>
 ## &#9741; &nbsp; Conclusion
 
-Gne gne gne
+In conclusione, riportiamo sinteticamente le risposte alle principali domande di ricerca:
+- È possibile individuare i Pokémon leggendari solamente in base alle loro statistiche “fisiche"? <br>
+La risposta è sì, e con risultati piuttosto consistenti: infatti, l’accuracy (nonché la misura di *F-Measure*) raggiunta dai classificatori per tale compito è piuttosto alta, e tutti i modelli di classificazione usati per l’analisi si sono rilevati sostanzialmente equivalenti e ben performanti. <br>
+In particolare, abbiamo scoperto che bastano pochi attributi comuni selezionati attraverso *Feature Selection* per ottenere ottimi risultati di classificazione, segno che il risultato è chiaramente interpretabile tramite il significato che questi attributi assumono nel mondo dei Pokémon. In linea di massima possiamo affermare che i Pokémon etichettati -dai creatori del gioco- come leggendari non posseggono tale titolo solo per ragioni di trama o convenienza, ma perché dotati a tutti gli effetti di statistiche di combattimento generalmente piuttosto elevate. <br>
+
+- È possibile predire in base alle statistiche generali la facilità di cattura di un Pokémon? <br>
+La risposta è (parzialmente) sì: con la classificazione multibinaria che abbiamo effettuato, avente come target la variabile *rarity_class* da noi creata, abbiamo ottenuto un’accuracy media pari all’incirca a 0.8, comune a tutti i classificatori adottati. Tale risultato indica che i relativamente pochi attributi selezionati (dalla Feature Selection) influenzano in modo significativo il processo di cattura. <br>
+
+I risultati sono probabilmente incrementabili applicando direttamente una regressione alla variabile continua *catch_rate*, tuttavia la risposta alla domanda principale sarebbe in questo frangente offuscata (se non contraddetta, in alcuni casi) dal peso del fattore random che gioca un ruolo importante durante il processo di cattura. Con la nostra discretizzazione pensiamo di ottenere un risultato più affidabile in termini di riscontro nel gioco, benché meno predittivo nello specifico.
 
 <a name="aboutus"></a>
 ## &#9741; &nbsp; About us
