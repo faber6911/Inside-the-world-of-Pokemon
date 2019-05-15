@@ -34,7 +34,12 @@ Con il software **KNIME** abbiamo provato a dare una risposta a questi interroga
 <a name="instructions"></a>
 ## &#9741; &nbsp; Instructions
 
-Blablabla
+Per il progetto, abbiamo dovuto seguire le istruzioni ivi riportate: <br>
+- Scegliere un dataset da Kaggle; <br>
+- Dare vita a un Team (min. 2 membri, max. 5); <br>
+- Usare tutte le tecniche e gli strumenti a nostra disposizione (con logica); <br>
+- Sviluppare un workflow di [Knime](https://www.knime.com/knime-software/knime-analytics-platform); <br> 
+- Dare vita a un report tecnico (sotto le 8 pagine, nel nostro caso in Italiano). <br>
 
 ### **Notes**
 
