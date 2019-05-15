@@ -56,22 +56,17 @@ Il dataset utilizzato è disponibile al seguente link: <br>
 
 Un ringraziamento a [@alopez247](https://www.kaggle.com/alopez247) per aver reso disponibile il dataset su [Kaggle](https://www.kaggle.com/) <br>
 
-Laddove non si conoscesse e si volesse avere un'idea più precisa in merito al mondo dei Pokémon, fare click sulla seguente immagine: <br>
-<p align="center">
-  <a href="https://www.pokemon.com/it/"><img src = "https://github.com/malborroni/Machine_Learning_Project/blob/master/img/Scritta vector.png" width = "45%"></a>
-</p>
-
 <br>
 
 <a name="visualization"></a>
 ## &#9741; &nbsp; Data Visualization
 
 <p align="center">
-  <a href="https://public.tableau.com/views/Pokmon-MLproject/Whosgonnawin?:embed=y&:display_count=yes&:origin=viz_share_link"><img src = "https://github.com/malborroni/Machine_Learning_Project/blob/master/img/Cattura.PNG" width = "100%"></a>
+  <a href="https://public.tableau.com/views/Pokmon-MLproject/Introduction?:embed=y&:display_count=yes&:origin=viz_share_link"><img src = "https://github.com/malborroni/Machine_Learning_Project/blob/master/img/Cattura.PNG" width = "100%"></a>
 </p>
 
 Tentando di mettere in pratica quanto imparato in materia di _visualizzazione dei dati_, abbiamo dato vita ad alcune infografiche. <br>
-Per accedere alla versione interattiva delle stesse, clicckare sull'immagine sopra riportata oppure sul seguente link, il quale rimanda a una pagina di [Tableau](https://www.tableau.com/) Public: https://public.tableau.com/views/Pokmon-MLproject/Whosgonnawin?:embed=y&:display_count=yes&:origin=viz_share_link
+Per accedere alla versione interattiva delle stesse, clicckare sull'immagine sopra riportata oppure sul seguente link, il quale rimanda a una pagina di [Tableau](https://www.tableau.com/) Public: https://public.tableau.com/views/Pokmon-MLproject/Introduction?:embed=y&:display_count=yes&:origin=viz_share_link
 
 <a name="conclusion"></a>
 ## &#9741; &nbsp; Conclusioni
