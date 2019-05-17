@@ -51,7 +51,7 @@ Per il progetto, abbiamo dovuto seguire le istruzioni ivi riportate: <br>
 
 ### **Nota Bene:**
 
-Abbiamo deciso di sviluppo il report in lingua italiana per mantenere una coerenza con l'insegnamento e per evitare di complicarci eccessivamente la vita in fase di stesura. <br>
+Abbiamo deciso di sviluppare il report in lingua italiana per mantenere una coerenza con l'insegnamento e per evitare di complicarci eccessivamente la vita in fase di stesura. <br>
 Tuttavia, abbiamo l'intento di dar vita a una versione in inglese nel breve periodo.
 
 <br>
