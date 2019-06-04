@@ -201,4 +201,8 @@ Grazie infinitamente per la cortese **attenzione**!
 <br>
 
 
-<p align = "right"> Readme layout by <a href="https://github.com/malborroni/"> @malborroni </a></p>
+<p align = "right">
+  <a href = "https://github.com/malborroni/">
+             <img src = "https://github.com/DBertazioli/ARmeetup/blob/master/report/images/credits_readme.png" width = "25%">
+             </a>
+</p>
