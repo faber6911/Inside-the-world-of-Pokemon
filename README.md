@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="http://datascience.disco.unimib.it/it/"><img src = "https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/DSunimib.png" width = "100%"></a>
+  <a href="http://datascience.disco.unimib.it/it/"><img src = "https://raw.githubusercontent.com/malborroni/Foundations_of_Computer-Science/master/images/DSunimib.png" width = "100%"></a>
 </p>
 <h1 align="center">
   <br>
