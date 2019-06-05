@@ -110,11 +110,8 @@ Il nome del nostro gruppo di lavoro per questo progetto è stato **Team 09**, e 
 Qui di seguito vengono riportati i principali canali social:
 
 <p align = "center">
-  <a href = "https://www.linkedin.com/in/dario-bertazioli-961ab4180/"><img src="https://raw.githubusercontent.com/malborroni/Machine_Learning_Project/master/img/174857.svg" width = "3%"></a>
-  <a href = "https://www.kaggle.com/dariobtz/"><img src="https://raw.githubusercontent.com/malborroni/Foundations_of_Computer-Science/master/images/thumbnail.png" width = "3%"></a>
+  <a href = "https://www.linkedin.com/in/dario-bertazioli-961ab4180/"><img src="https://raw.githubusercontent.com/DBertazioli/Interact/master/img/iconfinder_Popular_Social_Media-22_2329259.png" width = "3%"></a>
   <a href = "https://github.com/DBertazioli/"><img src="https://raw.githubusercontent.com/malborroni/Foundations_of_Computer-Science/master/images/GitHub.png" width = "3%"></a>
-  <a href = "https://www.facebook.com/dario.bertazioli.5"><img src="https://raw.githubusercontent.com/malborroni/Foundations_of_Computer-Science/master/images/174848.svg" width = "3%"></a>
-</p>
 
 ## &nbsp;
 
@@ -127,12 +124,8 @@ Qui di seguito vengono riportati i principali canali social:
 Qui di seguito vengono riportati i principali canali social:
 
 <p align = "center">
-  <a href = "https://www.linkedin.com/in/alessandro-borroni-212947186/"><img src="https://raw.githubusercontent.com/malborroni/Machine_Learning_Project/master/img/174857.svg" width = "3%"></a>
-  <a href = "https://www.kaggle.com/alessandroborroni/"><img src="https://raw.githubusercontent.com/malborroni/Foundations_of_Computer-Science/master/images/thumbnail.png" width = "3%"></a>
+  <a href = "https://www.linkedin.com/in/alessandro-borroni-212947186/"><img src="https://raw.githubusercontent.com/DBertazioli/Interact/master/img/iconfinder_Popular_Social_Media-22_2329259.png" width = "3%"></a>
   <a href = "https://github.com/malborroni/"><img src="https://raw.githubusercontent.com/malborroni/Foundations_of_Computer-Science/master/images/GitHub.png" width = "3%"></a>
-  <a href = "https://www.twitter.com/malborroni/"><img src="https://raw.githubusercontent.com/malborroni/Foundations_of_Computer-Science/master/images/Twitter_bird_logo.png" width = "3%"></a>
-  <a href = "https://www.facebook.com/alessandro.borroni.777"><img src="https://raw.githubusercontent.com/malborroni/Foundations_of_Computer-Science/master/images/174848.svg" width = "3%"></a>
-</p>
 
 ## &nbsp;
 
@@ -145,12 +138,8 @@ Qui di seguito vengono riportati i principali canali social:
 Qui di seguito vengono riportati i principali canali social:
 
 <p align = "center">
-  <a href = "https://www.linkedin.com/in/fabrizio-d-intinosante-125042180/"><img src="https://raw.githubusercontent.com/malborroni/Machine_Learning_Project/master/img/174857.svg" width = "3%"></a>
-  <a href = "https://www.kaggle.com/faber6911/"><img src="https://raw.githubusercontent.com/malborroni/Foundations_of_Computer-Science/master/images/thumbnail.png" width = "3%"></a>
+  <a href = "https://www.linkedin.com/in/fabrizio-d-intinosante-125042180/"><img src="https://raw.githubusercontent.com/DBertazioli/Interact/master/img/iconfinder_Popular_Social_Media-22_2329259.png" width = "3%"></a>
   <a href = "https://github.com/faber6911/"><img src="https://raw.githubusercontent.com/malborroni/Foundations_of_Computer-Science/master/images/GitHub.png" width = "3%"></a>
-  <a href = "https://www.twitter.com/faberdinto/"><img src="https://raw.githubusercontent.com/malborroni/Foundations_of_Computer-Science/master/images/Twitter_bird_logo.png" width = "3%"></a>
-  <a href = "https://www.facebook.com/fabrizio.dintinosante"><img src="https://raw.githubusercontent.com/malborroni/Foundations_of_Computer-Science/master/images/174848.svg" width = "3%"></a>
-</p>
 
 ## &nbsp;
 
@@ -163,11 +152,8 @@ Qui di seguito vengono riportati i principali canali social:
 Qui di seguito vengono riportati i principali canali social:
 
 <p align = "center">
-  <a href = "https://www.linkedin.com/in/mirko-giugliano-3b8269134/"><img src="https://raw.githubusercontent.com/malborroni/Machine_Learning_Project/master/img/174857.svg" width = "3%"></a>
-  <a href = "https://www.kaggle.com/pntt95/"><img src="https://raw.githubusercontent.com/malborroni/Foundations_of_Computer-Science/master/images/thumbnail.png" width = "3%"></a>
+  <a href = "https://www.linkedin.com/in/mirko-giugliano-3b8269134/"><img src="https://raw.githubusercontent.com/DBertazioli/Interact/master/img/iconfinder_Popular_Social_Media-22_2329259.png" width = "3%"></a>
   <a href = "https://github.com/mamba95/"><img src="https://raw.githubusercontent.com/malborroni/Foundations_of_Computer-Science/master/images/GitHub.png" width = "3%"></a>
-  <a href = "https://www.twitter.com/MambaPntt/"><img src="https://raw.githubusercontent.com/malborroni/Foundations_of_Computer-Science/master/images/Twitter_bird_logo.png" width = "3%"></a>
-  <a href = "https://www.facebook.com/mirko.giugliano"><img src="https://raw.githubusercontent.com/malborroni/Foundations_of_Computer-Science/master/images/174848.svg" width = "3%"></a>
 </p>
 
 ## &nbsp;
@@ -181,11 +167,8 @@ Qui di seguito vengono riportati i principali canali social:
 Qui di seguito vengono riportati i principali canali social:
 
 <p align = "center">
-  <a href = "https://www.linkedin.com/in/massimilianoperletti/"><img src="https://raw.githubusercontent.com/malborroni/Machine_Learning_Project/master/img/174857.svg" width = "3%"></a>
-  <a href = "https://www.kaggle.com/aski11"><img src="https://raw.githubusercontent.com/malborroni/Foundations_of_Computer-Science/master/images/thumbnail.png" width = "3%"></a>
+  <a href = "https://www.linkedin.com/in/massimilianoperletti/"><img src="https://raw.githubusercontent.com/DBertazioli/Interact/master/img/iconfinder_Popular_Social_Media-22_2329259.png" width = "3%"></a>
   <a href = "https://github.com/maxi93/"><img src="https://raw.githubusercontent.com/malborroni/Foundations_of_Computer-Science/master/images/GitHub.png" width = "3%"></a>
-  <a href = "https://www.twitter.com/MassiPerletti/"><img src="https://raw.githubusercontent.com/malborroni/Foundations_of_Computer-Science/master/images/Twitter_bird_logo.png" width = "3%"></a>
-  <a href = "https://www.facebook.com/massimilianoperletti1"><img src="https://raw.githubusercontent.com/malborroni/Foundations_of_Computer-Science/master/images/174848.svg" width = "3%"></a>
 </p>
 
 <br>
