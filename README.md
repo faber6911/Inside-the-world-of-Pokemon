@@ -113,7 +113,9 @@ Qui di seguito vengono riportati i principali canali social:
   <a href = "https://www.linkedin.com/in/dario-bertazioli-961ab4180/"><img src="https://raw.githubusercontent.com/DBertazioli/Interact/master/img/iconfinder_Popular_Social_Media-22_2329259.png" width = "4%"></a>
   <a href = "https://github.com/DBertazioli/"><img src="https://raw.githubusercontent.com/malborroni/Foundations_of_Computer-Science/master/images/GitHub.png" width = "3%"></a>
 
+
 ## &nbsp;
+
 
 &#8860; &nbsp; **Alessandro Borroni** 
 
@@ -127,7 +129,9 @@ Qui di seguito vengono riportati i principali canali social:
   <a href = "https://www.linkedin.com/in/alessandro-borroni-212947186/"><img src="https://raw.githubusercontent.com/DBertazioli/Interact/master/img/iconfinder_Popular_Social_Media-22_2329259.png" width = "4%"></a>
   <a href = "https://github.com/malborroni/"><img src="https://raw.githubusercontent.com/malborroni/Foundations_of_Computer-Science/master/images/GitHub.png" width = "3%"></a>
 
+
 ## &nbsp;
+
 
 &#8860; &nbsp; **Fabrizio D'Intinosante**
 
@@ -141,7 +145,9 @@ Qui di seguito vengono riportati i principali canali social:
   <a href = "https://www.linkedin.com/in/fabrizio-d-intinosante-125042180/"><img src="https://raw.githubusercontent.com/DBertazioli/Interact/master/img/iconfinder_Popular_Social_Media-22_2329259.png" width = "4%"></a>
   <a href = "https://github.com/faber6911/"><img src="https://raw.githubusercontent.com/malborroni/Foundations_of_Computer-Science/master/images/GitHub.png" width = "3%"></a>
 
+
 ## &nbsp;
+
 
 &#8860; &nbsp; **Mirko Giugliano**
 
@@ -156,7 +162,9 @@ Qui di seguito vengono riportati i principali canali social:
   <a href = "https://github.com/mamba95/"><img src="https://raw.githubusercontent.com/malborroni/Foundations_of_Computer-Science/master/images/GitHub.png" width = "3%"></a>
 </p>
 
+
 ## &nbsp;
+
 
 &#8860; &nbsp; **Massimiliano Perletti**
 
