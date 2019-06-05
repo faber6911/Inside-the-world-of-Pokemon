@@ -114,6 +114,7 @@ Qui di seguito vengono riportati i principali canali social:
   <a href = "https://github.com/DBertazioli/"><img src="https://raw.githubusercontent.com/malborroni/Foundations_of_Computer-Science/master/images/GitHub.png" width = "3%"></a>
 
 <br>
+
 ## &nbsp;
 
 
@@ -130,6 +131,7 @@ Qui di seguito vengono riportati i principali canali social:
   <a href = "https://github.com/malborroni/"><img src="https://raw.githubusercontent.com/malborroni/Foundations_of_Computer-Science/master/images/GitHub.png" width = "3%"></a>
 
 <br>
+
 ## &nbsp;
 
 
@@ -146,6 +148,7 @@ Qui di seguito vengono riportati i principali canali social:
   <a href = "https://github.com/faber6911/"><img src="https://raw.githubusercontent.com/malborroni/Foundations_of_Computer-Science/master/images/GitHub.png" width = "3%"></a>
 
 <br>
+
 ## &nbsp;
 
 
@@ -163,6 +166,7 @@ Qui di seguito vengono riportati i principali canali social:
 </p>
 
 <br>
+
 ## &nbsp;
 
 
