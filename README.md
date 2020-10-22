@@ -37,6 +37,7 @@ ii) È possibile ricondurre la difficoltà in cui ci si può imbattere nel trova
 
 Con il software **KNIME** abbiamo provato a dare una risposta a questi interrogativi con gli strumenti propri del Machine Learning.
 
+Il report redatto è disponibile <a href = "https://github.com/faber6911/Inside-the-world-of-Pokemon/blob/master/report/report.pdf">qui</a>.
 <br>
 
 <a name="instructions"></a>
@@ -107,16 +108,9 @@ Il nome del nostro gruppo di lavoro per questo progetto è stato **Team 09**, e 
 - *Traguardi precedenti*: Laurea triennale in Fisica presso l'Università degli Studi di Milano.
 <br>
 
-Qui di seguito vengono riportati i principali canali social:
-
 <p align = "center">
   <a href = "https://www.linkedin.com/in/dario-bertazioli-961ab4180/"><img src="https://raw.githubusercontent.com/DBertazioli/Interact/master/img/iconfinder_Popular_Social_Media-22_2329259.png" width = "3%"></a>
   <a href = "https://github.com/DBertazioli/"><img src="https://raw.githubusercontent.com/malborroni/Foundations_of_Computer-Science/master/images/GitHub.png" width = "3%"></a>
-
-<br>
-
-## &nbsp;
-<br>
 
 &#8860; &nbsp; **Alessandro Borroni** 
 
@@ -124,16 +118,9 @@ Qui di seguito vengono riportati i principali canali social:
 - *Traguardi precedenti*: Laurea triennale in Economia e Commercio presso l'Università degli Studi di Milano-Bicocca;
 <br>
 
-Qui di seguito vengono riportati i principali canali social:
-
 <p align = "center">
   <a href = "https://www.linkedin.com/in/alessandro-borroni-212947186/"><img src="https://raw.githubusercontent.com/DBertazioli/Interact/master/img/iconfinder_Popular_Social_Media-22_2329259.png" width = "3%"></a>
   <a href = "https://github.com/malborroni/"><img src="https://raw.githubusercontent.com/malborroni/Foundations_of_Computer-Science/master/images/GitHub.png" width = "3%"></a>
-
-<br>
-
-## &nbsp;
-<br>
 
 &#8860; &nbsp; **Fabrizio D'Intinosante**
 
@@ -141,16 +128,9 @@ Qui di seguito vengono riportati i principali canali social:
 - *Traguardi precedenti*: Laurea triennale in Economia e Statistica per le organizzazioni presso l'Università degli Studi di Torino.
 <br>
 
-Qui di seguito vengono riportati i principali canali social:
-
 <p align = "center">
   <a href = "https://www.linkedin.com/in/fabrizio-d-intinosante-125042180/"><img src="https://raw.githubusercontent.com/DBertazioli/Interact/master/img/iconfinder_Popular_Social_Media-22_2329259.png" width = "3%"></a>
   <a href = "https://github.com/faber6911/"><img src="https://raw.githubusercontent.com/malborroni/Foundations_of_Computer-Science/master/images/GitHub.png" width = "3%"></a>
-
-<br>
-
-## &nbsp;
-<br>
 
 &#8860; &nbsp; **Mirko Giugliano**
 
@@ -158,17 +138,10 @@ Qui di seguito vengono riportati i principali canali social:
 - *Traguardi precedenti*: Laurea triennale in Marketing, Comunicazione Aziendale e Mercati Globali presso l'Università degli Studi di Milano-Bicocca.
 <br>
 
-Qui di seguito vengono riportati i principali canali social:
-
 <p align = "center">
   <a href = "https://www.linkedin.com/in/mirko-giugliano-3b8269134/"><img src="https://raw.githubusercontent.com/DBertazioli/Interact/master/img/iconfinder_Popular_Social_Media-22_2329259.png" width = "3%"></a>
   <a href = "https://github.com/mamba95/"><img src="https://raw.githubusercontent.com/malborroni/Foundations_of_Computer-Science/master/images/GitHub.png" width = "3%"></a>
 </p>
-
-<br>
-
-## &nbsp;
-<br>
 
 &#8860; &nbsp; **Massimiliano Perletti**
 
@@ -176,15 +149,10 @@ Qui di seguito vengono riportati i principali canali social:
 - *Traguardi precedenti*: Laurea triennale in Ingegneria dei materiali e delle nano-tecnologie presso il Politecnico di Milano.
 <br>
 
-Qui di seguito vengono riportati i principali canali social:
-
 <p align = "center">
   <a href = "https://www.linkedin.com/in/massimilianoperletti/"><img src="https://raw.githubusercontent.com/DBertazioli/Interact/master/img/iconfinder_Popular_Social_Media-22_2329259.png" width = "3%"></a>
   <a href = "https://github.com/maxi93/"><img src="https://raw.githubusercontent.com/malborroni/Foundations_of_Computer-Science/master/images/GitHub.png" width = "3%"></a>
 </p>
-
-<br>
-<br>
 
 Grazie infinitamente per la cortese **attenzione**!
 
